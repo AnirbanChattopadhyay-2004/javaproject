@@ -1,0 +1,3 @@
+In the occurance array program actually the random input are taken in the array till 0 is entered by the user.Then occurance of each element is counted by using nested loops 
+and each time updating the value of i to variable k by keeping it in mind that finally the value of i is incremented by 1 before ending of the loop.And at last the possible print statement
+is printed.
